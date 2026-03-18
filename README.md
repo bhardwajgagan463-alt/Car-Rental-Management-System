@@ -1,4 +1,3 @@
-# Car-Rental-Management-System
 # 🚗 Car Rental System (C++)
 
 A console-based Car Rental Management System built using **C++**, implementing **Object-Oriented Programming (OOP)** concepts and **File Handling**.
